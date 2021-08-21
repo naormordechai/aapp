@@ -1,0 +1,11 @@
+node_modules/
+.vs/
+.eslintcache
+.env*
+.VSCodeCounter/
+.history/
+jwks.json
+.DS_Store
+frontend/dist/
+dist/
+.idea/
